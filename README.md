@@ -1,4 +1,4 @@
-#Selamat Datang Di Github YZ OGEB
+Selamat Datang Di Github YZ OGEB
 Kali ini saya Berbagi script Dark Fb Versi Corona
 Lansung Saja
 
@@ -10,4 +10,18 @@ $ pkg install git
 $ git clone https://github.com/yz-ogeb/yzogeb                      
 $ cd yzogeb                                        
 $ python2 corona.py
+
+
+#dakfb
+#dak-fb
+#hackfb
+#hack-fb
+#toolsfb
+#tools-fb
+#dakfacebook
+#dak-facebook
+#hackfacebook
+#hack-facebook
+#toolsfacebook
+#tools-facebook
 
