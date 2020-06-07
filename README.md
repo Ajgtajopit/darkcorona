@@ -8,7 +8,7 @@ $ pip2 install prompt_toolkit
 $ pip2 install requests bs4 cookiejar mechanize               
 $ pkg install git                                   
 $ git clone https://github.com/yz-ogeb/darkcorona                     
-$ cd yzogeb                                        
+$ cd darkcorona                                        
 $ python2 corona.py
 
 
